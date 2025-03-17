@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "descricao": "Produto 1",
+        "imagem": "../assets/imagens/perfume-1.png",
+        "preco": 10.0
+    },
+    {
+        "id":2,
+        "descricao": "Produto 2",
+        "imagem": "../assets/imagens/perfume-2.jpg",
+        "preco": 20.0
+    },
+    {
+        "id":3,
+        "descricao": "Produto 3",
+        "imagem":  "../assets/imagens/perfume-3.webp",
+        "preco": 50.0
+    },
+    {
+        "id":4,
+        "descricao": "Produto 4",
+        "imagem": "../assets/imagens/perfume-1.png",
+        "preco": 10.0
+    },
+    {
+        "id":5,
+        "descricao": "Produto 5",
+        "imagem": "../assets/imagens/perfume-2.jpg",
+        "preco": 20.0
+    },
+    {
+        "id":6,
+        "descricao": "Produto 6",
+        "imagem":  "../assets/imagens/perfume-3.webp",
+        "preco": 50.0
+    },
+    {
+        "id":7,
+        "descricao": "Produto 7",
+        "imagem": "../assets/imagens/perfume-2.jpg",
+        "preco": 20.0
+    },
+    {
+        "id":8,
+        "descricao": "Produto 8",
+        "imagem":  "../assets/imagens/perfume-3.webp",
+        "preco": 50.0
+    }
+]
